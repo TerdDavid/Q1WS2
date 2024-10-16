@@ -1,0 +1,20 @@
+.container1{
+	background-color: #57392a;
+}
+.form1{
+	background-color: #57392a;
+	width: 400px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 10px;
+}
+body {
+	background-image: url(https://c0.wallpaperflare.com/preview/579/959/661/book-shelf-library-house.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+label{
+	font-weight: bold;
+	color: #eba683;
+}
+
